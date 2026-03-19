@@ -59,7 +59,7 @@ export default function Header() {
           <div className="flex items-center justify-between h-20">
             <Link to="/" className="flex-shrink-0">
               <img
-                src="/image.png"
+                src="/images/logo/RS LOGO.png"
                 alt="RS Construction and Property Services Ltd"
                 className="h-14 w-auto"
               />
@@ -113,7 +113,7 @@ export default function Header() {
             <div className="flex flex-col h-full">
               <div className="flex items-center justify-between p-6 border-b">
                 <img
-                  src="/image.png"
+                  src="/images/logo/RS LOGO.png"
                   alt="RS Construction"
                   className="h-10 w-auto"
                 />
