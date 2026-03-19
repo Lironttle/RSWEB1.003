@@ -7,7 +7,7 @@ export default function Footer() {
         <div className="py-16 flex flex-col md:flex-row items-center md:items-start justify-between gap-12">
           <div className="flex flex-col items-center md:items-start">
             <img
-              src="/image.png"
+              src="/images/logo/RS LOGO.png"
               alt="RS Construction and Property Services Ltd"
               className="h-16 w-auto mb-6"
             />
